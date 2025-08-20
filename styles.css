@@ -2,7 +2,7 @@ body{
     background-image:url("image1.jpg");
     background-repeat:no-repeat ;
     background-size:cover ;
-    /* overflow-y: auto; */
+    
 }
 h1{
     text-align: center;
